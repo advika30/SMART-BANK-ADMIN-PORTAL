@@ -32,15 +32,19 @@ A full-stack web application built using **Django**, **MySQL**, and **Bootstrap*
 > Add screenshots inside a `screenshots/` folder in your repo and reference them like below:
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/pic8.png)
 
 ### 🧮 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/pic1.png)
 
 ### 📥 Deposit & Withdraw
-![Transaction](screenshots/transaction.png)
+![Deposit](screenshots/pic5.png)
+![Withdraw](screenshots/pic6.png)
 
 ### 👥 Customer View
-![Customer List](screenshots/customers.png)
+![Customer List](screenshots/pic4.png)
 
+### 🧮 Transaction History
+
+![Transaction History](screenshots/pic7.png)
 
